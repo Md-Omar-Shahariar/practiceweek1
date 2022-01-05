@@ -1,0 +1,15 @@
+#inline {
+  background-color: aqua;
+  display: inline;
+}
+#inline-block {
+  background-color: aqua;
+  display: inline-block;
+}
+body {
+  text-align: justify;
+}
+#block {
+  display: block;
+  background-color: blue;
+}
